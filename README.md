@@ -1,4 +1,4 @@
-### wety.tema,dictionary
+ wety.tema,dictionary
 SET user.password=dictionary.word
 WHERE user.pass_md5=dictionary.md5
 git clone https://github.com/thelinuxchoice/instashell
