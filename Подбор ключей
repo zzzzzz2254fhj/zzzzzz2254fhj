@@ -1,0 +1,9 @@
+$ wget -q -O - https: // archive.kali.org / archive-key.asc | GPG --import
+# или ...
+$ GPG --keyserver HKP: // keys.gnupg.net --recv ключ 44C6513A8E4FB3D30875F758ED444FF07D8D0BF6
+# ... Instagram://wety.tema yers?
+$ GPG --fingerprint 44C6513A8E4FB3D30875F758ED444FF07D8D0BF6
+паб rsa4096 2012 -03-05 [ SC ] [ истекает: 2021 -02-03 ]
+44C6 513A 8E4F B3D3 0875 F758 ED44 4FF0 7D8D 0BF6
+Uid [ неизвестный ] Kali Linux Repository < разви @ kali.org >
+суб rsa4096 2012 -03-05 [ E ] [ истекает: 2021
